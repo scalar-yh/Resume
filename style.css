@@ -1,0 +1,78 @@
+/*h1,h2*/
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    font-style: initial;
+}
+h2 {
+    font-size: 29px;
+    color: #282828;
+    font-weight: lighter;
+    margin-bottom: 16px;
+    border-bottom: 16px solid #ebebeb;
+    padding-bottom: 5px;
+}
+.name-text {
+    font-style: italic
+}
+.title-box {
+    text-align: right;
+}
+.profile-img {
+    float: left;
+    display: inline;
+}
+/*Main*/
+footer {
+    text-align: center;
+    background-color: #1e1e1e;
+    padding: 20px;
+    font-size: 12px;
+    color: #919191;
+}
+
+.mainbox {
+    width: 610px;
+    padding: 30px;
+    margin: 30px;
+    border: 1px solid #000;
+    margin: 0 auto;
+    box-shadow: 0 1px 20px 0 rgba(0.0.0.0.1);
+}
+.about-me-text {
+    font-size: 10px;
+    line-height: 16px;
+}
+.float-wrap {
+    overflow: hidden;
+}
+.title-text {
+    font-size: 15px;
+    font-weight: bold;
+    color: #282828;
+    float: left;
+}
+.year-text {
+    font-size: 15px;
+    font-weight: bold;
+    color: #282828;
+    float: right;
+}
+.desc-text {
+    font-size: 10px;
+    color: #282828;
+    padding-left: 16px;
+}
+.desc-subtext {
+    font-size: 10px;
+    color: #282828;
+    padding-left: 25px;
+}
+.sns-wrap {
+    float: right;
+    padding-left: 1px;
+}
+.sns-img {
+    width: 12px;
+    height: 12px;
+}
